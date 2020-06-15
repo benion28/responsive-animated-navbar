@@ -1,0 +1,16 @@
+{
+  "name": "responsive-animated-navbar",
+  "version": "1.0.0",
+  "description": "Responsive And Animated Navbar With Multi level Drodown",
+  "main": "index.js",
+  "homepage": "https://benion28.github.io/responsive-animated-navbar/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Bernard Iorver",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
